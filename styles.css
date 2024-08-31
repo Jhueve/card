@@ -1,0 +1,59 @@
+ody {
+    background-image: url('img/blanco.jfif');
+    background-size: contain;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+
+  .menu-container {
+    background-color: rgb(9, 9, 36);
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 600px;
+    margin: 100px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(253, 253, 253);
+    margin-bottom: 10px;
+  }
+
+  .menu-section {
+    margin-bottom: 30px;
+  }
+
+  .section-title {
+    font-size: 24px;
+    color:rgb(235, 237, 243);
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .section-imagee {
+    float: left;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    border-radius: 40%;
+  }
+  .section-image {
+    float:aling ;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto; /* Center the image horizontally */
+    border-radius: 50%;
+  }
+
+  .centered-div {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+    gap: 20px;               /* Espacio entre las imágenes (opcional) */
+              /* Ajusta la altura del div si es necesario */
+}
+
+  
+ 
